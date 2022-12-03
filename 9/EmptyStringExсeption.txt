@@ -1,0 +1,7 @@
+package _9pr;
+
+public class EmptyStringExñeption extends IllegalArgumentException{
+    EmptyStringExñeption() {
+        super("Ïóñòàÿ ñòğîêà");
+    }
+}
