@@ -1,0 +1,12 @@
+package _11_12pr._4ex;
+
+public class Main {
+
+
+    public static void main(String[] args) {
+        PhoneNum phoneNum = new PhoneNum();
+        System.out.println(phoneNum.converts("+7917565999" ));
+        System.out.println(phoneNum.converts("+1042896611" ));
+        System.out.println(phoneNum.converts("8917534655" ));
+    }
+}
