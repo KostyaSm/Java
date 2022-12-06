@@ -1,0 +1,7 @@
+package labFolder.lab16.MenuItem;
+
+public interface Alcoholable {
+    public void isAlcoholicDrink();
+    public double getAlcoholVol();
+}
+
