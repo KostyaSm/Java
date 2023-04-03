@@ -1,4 +1,4 @@
-public class task20_punkt2_AnyTape <E> {
+public task20_punkt2_AnyTape <E> {
     private E [] arr;
     private int h;
 

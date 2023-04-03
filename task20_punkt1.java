@@ -26,6 +26,11 @@ public class task20_punkt1 {
         System.out.println("List2: " + list2);
 
 
+<<<<<<< HEAD
 #c
     }
 }
+=======
+#csc
+#fdvdvsvgrefv
+>>>>>>> branch1
