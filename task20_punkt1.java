@@ -27,5 +27,4 @@ public class task20_punkt1 {
 
 
 #csc
-    }
-}
+#fdvdvsvgrefv
