@@ -34,5 +34,5 @@ public task20_punkt2_AnyTape <E> {
     public void replace(int i, E h) {
         arr[i] = h;
     }
-#qwedsasx
+#qwedsdasadsdasdasdsssaaaaaaaaaaasaxa
 }
